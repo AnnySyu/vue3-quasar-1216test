@@ -1,0 +1,12 @@
+{
+  "success": false,
+  "data": {
+    "id": "",
+    "name": "",
+    "email": ""
+  },
+  "error": {
+    "code": "USER_NOT_FOUND",
+    "message": "The user with the given ID does not exist."
+  }
+}
